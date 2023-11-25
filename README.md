@@ -1,2 +1,2 @@
 # A-cobra-ja-esta-fumando
-Códigos pequenos ó para aprender
+Códigos pequenos em python só para aprender
